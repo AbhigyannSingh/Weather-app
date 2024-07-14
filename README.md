@@ -28,7 +28,7 @@ You will need a modern web browser and an API key from OpenWeatherMap. You can s
 1. Clone the repo:
 
     ```bash
-    git clone https://github.com/AbhigyannSingh/Weather-app.git
+    git clone [https://github.com/AbhigyannSingh/Weather-app.git](https://github.com/AbhigyannSingh/Weather-app)
     ```
 
 2. Open the `index.html` file in your browser to view the application.
